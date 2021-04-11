@@ -149,7 +149,11 @@ https://blog.csdn.net/weixin_30451709/article/details/96746628
 房多多路演ppt曝光：提升房产交易效率为何在中国市场潜力极大
 https://new.qq.com/omn/20191030/20191030A05H3C00.html
 
+Gitter 是一个聊天和网络平台，通过消息、内容和发现，帮助管理、发展和连接社区。
+https://gitter.im/
 
+https://docs.agora.io/cn/documents
 
+https://www.52ico.com/
 
 
