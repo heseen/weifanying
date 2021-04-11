@@ -125,6 +125,15 @@ https://jingzhunyun.com
 极客导航
 https://www.jikedaohang.com/
 
+产品大牛
+https://www.pmdaniu.com/explore/rp
+
+经营模式
+https://wiki.mbalib.com/wiki/%E7%BB%8F%E8%90%A5%E6%A8%A1%E5%BC%8F
+
+讯捷画图
+http://huatu.98youxi.com/
+
 
 
 
