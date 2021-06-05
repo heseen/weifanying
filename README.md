@@ -6,6 +6,7 @@
 
 ---
 
+
 https://gitee.com/
 
 http://123.xcatliu.com/
@@ -18,6 +19,8 @@ http://www.juweixin.com/
 
 https://www.qt-asia.com/
 
+后盾人
+https://houdunren.gitee.io/note/
 
 产品教练
 https://www.yuque.com/pmmaster/members
