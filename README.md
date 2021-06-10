@@ -91,26 +91,57 @@ l  研报来了
 
 
 https://gitee.com/
-网址导航：http://123.xcatliu.com/
-新榜-内容产业服务平台：https://www.newrank.cn/
-聚微信：http://www.juweixin.com/
-科箭一体化云平台：https://www.qt-asia.com/
-后盾云：https://houdunren.gitee.io/note/
 
-产品教练：https://www.yuque.com/pmmaster/members
-美团外卖特征平台的建设与实践：https://tech.meituan.com/2021/03/04/featureplatform-in-mtwaimai.html
+网址导航：
+http://123.xcatliu.com/
+
+新榜-内容产业服务平台：
+https://www.newrank.cn/
+
+聚微信：
+http://www.juweixin.com/
+
+科箭一体化云平台：
+https://www.qt-asia.com/
+
+后盾云：
+https://houdunren.gitee.io/note/
+
+产品教练：
+https://www.yuque.com/pmmaster/members
+
+美团外卖特征平台的建设与实践：
+https://tech.meituan.com/2021/03/04/featureplatform-in-mtwaimai.html
 
 
-坚果资本：https://www.capitalnuts.com/viewpoint/  
+坚果资本：
+https://www.capitalnuts.com/viewpoint/  
+
 疯狂BP：http://www.nutsbp.com/  
-到位商户合作接口文档：http://doc.daoway.cn:9521/business/#/
-FlutterWeb在美团外卖的实践：https://tech.meituan.com/2021/03/18/flutterweb-in-meituanwaimai.html
-itclanCoder：https://coder.itclan.cn/
-Axure 原型托管与协作平台：https://axhub.im/
-谷歌浏览器-极简插件：https://chrome.zzzmh.cn/index#ext
-Vercel 免费空间云平台：https://vercel.com/pricing
-字节跳动-火山智能推荐：https://www.volcengine.cn/product/intelligent-recommendation
-ICONPark资源站：https://iconpark.bytedance.com/official
+
+到位商户合作接口文档：
+http://doc.daoway.cn:9521/business/#/
+
+FlutterWeb在美团外卖的实践：
+https://tech.meituan.com/2021/03/18/flutterweb-in-meituanwaimai.html
+
+itclanCoder：
+https://coder.itclan.cn/
+
+Axure 原型托管与协作平台：
+https://axhub.im/
+
+谷歌浏览器-极简插件：
+https://chrome.zzzmh.cn/index#ext
+
+Vercel 免费空间云平台：
+https://vercel.com/pricing
+
+字节跳动-火山智能推荐：
+https://www.volcengine.cn/product/intelligent-recommendation
+
+ICONPark资源站：
+https://iconpark.bytedance.com/official
 
 
 EasyWeChat微信开发：
