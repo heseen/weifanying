@@ -5,6 +5,88 @@
 研报客-行业及财务报告：https://yanbaoke.com/  
 
 ---
+1.券商综合行研报告：
+l  萝卜投研
+l  彭博、WIND、Capital IQ
+l  慧博投研资讯http://www.hibor.com.cn/
+l  渐飞 http://bg.panlv.net 
+l  巨潮资讯、巨灵金融服务平台、同花顺、东方财富、新浪财经等
+
+2.国内研究报告出品方：
+l  199it ：http://www.199it.com/ 
+l  艾瑞数据 ：http://data.iresearch.com.cn/ 
+l  极光研究院：https://www.jiguang.cn/ 
+l  Questmobile研究院 ：http://www.questmobile.com.cn/
+l  易观大数据 ：https://www.analysys.cn/
+l  Questmobile ：http://www.questmobile.com.cn/
+l  艾媒网 ：http://www.iimedia.cn/ 
+l  360营销学院 ：http://yingxiao.360.cn/ 
+l  互联网教育研院 ：http://www.investedu.cn/
+
+3.国外研究报告出品方
+l  Bain & Company：
+l  http://www.bain.com/publications/index.aspx
+l  Oliver Wyman：https://www.oliverwyman.com/our- expertise/insights.html
+l  ZS Acssociates：https://www.zs.com/publications?f=
+l  Whitepapers Nielsen：http://www.nielsen.com/us/en/insights/reports.html
+l  Euromonitor International、JLL、IRI、J.D.Power、PitchBook、PwC、 Deloitte、Kantar、Coriolis Research、L.E.K. Consulting
+
+4.券商综合行研报告
+l  互联网相关报告
+l  腾讯：腾讯大讲堂、腾讯大数据、腾讯MXD移动互联网设计中心、腾讯交互设计报告
+l  百度：百度开放服务平台、百度数据研究中心
+l  阿里：阿里研究院-阿里行业研究报告、淘宝UED用户研究报告 
+l  网易：网易UED用户研究报告 
+l  优酷：优酷指数行业报告 
+l  PPTV指数：PPTV指数行业报告
+l  360：360研究报告
+
+5.各类细分行业报告
+l  硬件出货量全球报告：IDC - Search Results-IDC
+l  互联网行业报告：Precisely Everywhere-comscore
+l  BI Intelligence：business insider的报告 
+l  Global移动行业报告：Ericsson - A world of communication
+l  Global游戏行业报告：GamesIndustry.biz
+l  Global广告行业报告：http://adfonic.com/ 
+l  Global智能机报告：Canalys | Insight. Innovation. Impact.
+l  DCCI：http://www.dcci.com.cn/report/index.html
+l  通信无线报告：Mobile, Online & Digital Market Research, Data & Consultancy
+l  终端比较专业的报告：Home | GfK Global
+l  中国互联网络信息中心：CNNIC数据
+l  北京赛诺市场研究：赛诺数据，智能机出货量的专业统计 
+l  中国信通院：研究成果-权威发布-权威数据国家智能机出货量的官方统计 
+l  TalkingData：有时候会出一些报告 
+l  手游方向：https://www.dataeye.com/report.html-dataeye
+l  ASO100：专业App Store数据平台丨ASO优化专家平台丨iOS榜单排行榜查询
+l  工具艺恩咨询：电影电视行业免费报告列表页 旅游行业报告：旅游数据报告-旅游圈
+l  艺恩咨询：电影电视行业免费报告列表页
+l  旅游行业报告：旅游数据报告-旅游圈
+
+6.各大咨询公司报告下载页面
+l  http://www.deloitte.com/view/zh_CN/cn/services/
+l  http://www.deloitte.com/view/en_GX/global/insights/index.htm
+l  http://www.kpmg.com/CN/en/IssuesAndInsights/Pages/default.aspx
+l  http://www.mckinsey.com/locations/chinasimplified/
+l  http://www-31.ibm.com/cn/services/bcs/ 
+l  http://www.bcg.com.cn/cn/newsand ... s_publications.html 
+l  http://www.ebusinessreview.cn/
+l  http://www.ey.com/CN/ZH/home/library
+l  http://www.bain.cn/news.php
+l  https://china.mckinseyquarterly.com/home.aspx
+l  http://www.pwccn.com/home/eng/libraryindex.html
+l  http://www2.hewittassociates.com/Intl/AP/zh-CHT/Default.aspx
+l  http://www.booz.com/global/home/ ... ding-research-on-ma
+
+
+7. 小程序
+l  报告查一查
+l  行研领军者
+l  研报来了
+
+
+
+---
+
 
 https://gitee.com/
 
