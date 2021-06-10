@@ -5,6 +5,8 @@
 
 研报客-行业及财务报告：https://yanbaoke.com/  
 
+MBA智库百科：https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5  
+
 ---
 1.券商综合行研报告：  
 l  萝卜投研  
@@ -90,16 +92,15 @@ l  研报来了
 
 https://gitee.com/
 
-http://123.xcatliu.com/
+网址导航：http://123.xcatliu.com/
 
-https://www.newrank.cn/
+新榜-内容产业服务平台：https://www.newrank.cn/
 
-http://www.juweixin.com/
+聚微信：http://www.juweixin.com/
 
-https://www.qt-asia.com/
+科箭一体化云平台：https://www.qt-asia.com/
 
-后盾云
-https://houdunren.gitee.io/note/
+后盾云：https://houdunren.gitee.io/note/
 
 产品教练
 https://www.yuque.com/pmmaster/members
@@ -145,19 +146,12 @@ https://www.easywechat.com/
 https://www.94mxd.com.cn/pages/livecode.html?kf=kf
 
 
-MBA智库百科
-https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5
-
-2021-2026年中国家政服务行业市场研究与投资预测分析报告
-https://bg.qianzhan.com/report/detail/3e409af184ac42d8.html
-
 https://market.seatable.cn/
 
 https://baijiahao.baidu.com/s?id=1636851148764373663&wfr=spider&for=pc
 
 明道云
 https://mingdao.com/home
-
 
 
 https://baijiahao.baidu.com/s?id=1684777770681547267&wfr=spider&for=pc
@@ -198,7 +192,6 @@ https://zhuanlan.zhihu.com/p/353255352
 https://www.zhihu.com/question/438708854/answer/1739677712
 
 https://baijiahao.baidu.com/s?id=1685764265586815096
-
 
 https://zhuanlan.zhihu.com/p/147045466
 
@@ -252,9 +245,9 @@ https://www.newrank.cn/
 
 1.沃客导航-让工作更高效！
 
-    http://www.waysto.work/
+http://www.waysto.work/
 
-  2.今日热榜官网
+2.今日热榜官网
 
 https://tophub.today/
 
@@ -362,6 +355,20 @@ https://www.userfeel.com/zh-hans
 https://www.uisdc.com/163-design-principle-and-guideline
 
 https://open.unionpay.com/tjweb/solution/detail?solId=20
+
+
+
+---
+家政
+
+熊猫系统-互联网让家政更美好
+http://www.jiazhengye.cn/index/exam
+
+2021-2026年中国家政服务行业市场研究与投资预测分析报告
+https://bg.qianzhan.com/report/detail/3e409af184ac42d8.html  
+
+---
+区块链
 
 腾讯区块链
 https://trustsql.qq.com/
