@@ -91,80 +91,56 @@ l  研报来了
 
 
 https://gitee.com/
-
 网址导航：http://123.xcatliu.com/
-
 新榜-内容产业服务平台：https://www.newrank.cn/
-
 聚微信：http://www.juweixin.com/
-
 科箭一体化云平台：https://www.qt-asia.com/
-
 后盾云：https://houdunren.gitee.io/note/
 
-产品教练
-https://www.yuque.com/pmmaster/members
-
-美团外卖特征平台的建设与实践
-https://tech.meituan.com/2021/03/04/featureplatform-in-mtwaimai.html
+产品教练：https://www.yuque.com/pmmaster/members
+美团外卖特征平台的建设与实践：https://tech.meituan.com/2021/03/04/featureplatform-in-mtwaimai.html
 
 
-https://www.capitalnuts.com/viewpoint/
-
-到位商户合作接口文档
-http://doc.daoway.cn:9521/business/#/
-
-FlutterWeb在美团外卖的实践
-https://tech.meituan.com/2021/03/18/flutterweb-in-meituanwaimai.html
-
-itclanCoder
-https://coder.itclan.cn/
-
-Axure 原型托管与协作平台
-https://axhub.im/
+坚果资本：https://www.capitalnuts.com/viewpoint/  
+疯狂BP：http://www.nutsbp.com/  
+到位商户合作接口文档：http://doc.daoway.cn:9521/business/#/
+FlutterWeb在美团外卖的实践：https://tech.meituan.com/2021/03/18/flutterweb-in-meituanwaimai.html
+itclanCoder：https://coder.itclan.cn/
+Axure 原型托管与协作平台：https://axhub.im/
+谷歌浏览器-极简插件：https://chrome.zzzmh.cn/index#ext
+Vercel 免费空间云平台：https://vercel.com/pricing
+字节跳动-火山智能推荐：https://www.volcengine.cn/product/intelligent-recommendation
+ICONPark资源站：https://iconpark.bytedance.com/official
 
 
-谷歌浏览器-极简插件
-https://chrome.zzzmh.cn/index#ext
-
-
-Vercel 免费空间云平台
-https://vercel.com/pricing
-
-字节跳动-火山智能推荐
-https://www.volcengine.cn/product/intelligent-recommendation
-
-ICONPark资源站
-https://iconpark.bytedance.com/official
-
-
-微信开发
+EasyWeChat微信开发：
 https://www.easywechat.com/
 
-
-
+媒想到-微信活码系统：
 https://www.94mxd.com.cn/pages/livecode.html?kf=kf
 
 
+seatable报表：
 https://market.seatable.cn/
 
+aPaaS有哪些成熟产品：
 https://baijiahao.baidu.com/s?id=1636851148764373663&wfr=spider&for=pc
 
-明道云
-https://mingdao.com/home
+明道云：https://mingdao.com/home
 
-
+“私域三角”增长模型：
 https://baijiahao.baidu.com/s?id=1684777770681547267&wfr=spider&for=pc
 
 
-36氪领读 | 穿透财报背后的真相，发现企业秘密
+
+36氪领读 | 穿透财报背后的真相，发现企业秘密：
 https://36kr.com/p/1722547552257
 
 
-互联网媒体内容社区模式发展研究报告
+互联网媒体内容社区模式发展研究报告：
 http://report.iresearch.cn/report_pdf.aspx?id=3688
 
-熊猫系统-家政系统
+熊猫系统-家政系统：
 http://www.jiazhengye.cn/index/aboutUs
 
 Hummer 是一套高性能高可用的跨端开发框架
