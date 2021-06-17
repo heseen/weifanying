@@ -380,4 +380,25 @@ https://bg.qianzhan.com/report/detail/3e409af184ac42d8.html
 腾讯区块链
 https://trustsql.qq.com/
 
+---
+腾讯设计导航：
+https://idesign.qq.com/
+
+创意分享平台：
+https://www.topys.cn/
+
+镝数据：
+https://www.dydata.io/
+
+八千网址导航：
+https://www.8kmm.com/
+
+在线思维导图：
+https://gitmind.cn/
+
+---
+
+
+
+
 
