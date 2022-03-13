@@ -7,6 +7,13 @@
 
 MBA智库百科：https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5  
 
+国家企业信用信息公示系统 http://www.gsxt.gov.cn/index.html  
+
+---
+Web开发技术：https://developer.mozilla.org/zh-CN/docs/Web  
+
+亿牛网 https://eniu.com/  
+
 ---
 1.券商综合行研报告：  
 l  萝卜投研  
@@ -397,6 +404,29 @@ https://www.8kmm.com/
 https://gitmind.cn/
 
 ---
+会计
+
+深圳市会计管理综合平台|深圳市财政局
+https://public.szfb.sz.gov.cn/zhcz-accountant/#/
+
+
+品职教育
+https://www.pzacademy.com/
+
+财富-FORTUNE
+https://www.fortunechina.com/fortune500/c/2021-08/02/content_394571.htm
+
+会计学堂
+https://www.acc5.com/
+
+企业会计准则-财政部
+http://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/
+
+财政会计行业管理系统
+http://acc.mof.gov.cn/
+
+高途教育
+https://www.gaotu.cn/category
 
 
 
