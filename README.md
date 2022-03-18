@@ -1,13 +1,20 @@
 # weifanying
-### 微微移动，表示敬意——微反应  
+### 微反应，我知道
 
-找研报-行业研究报告：https://www.fxbaogao.com/  
+找研报-行业研究报告
+https://www.fxbaogao.com/  
 
-研报客-行业及财务报告：https://yanbaoke.com/  
+研报客-行业及财务报告
+https://yanbaoke.com/  
 
-MBA智库百科：https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5  
+MBA智库百科
+https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5  
 
-国家企业信用信息公示系统 http://www.gsxt.gov.cn/index.html  
+国家企业信用信息公示系统
+http://www.gsxt.gov.cn/index.html  
+
+Z-Library.全球最大的数字图书馆
+https://zh.b-ok.com/
 
 ---
 Web开发技术：https://developer.mozilla.org/zh-CN/docs/Web  
@@ -16,7 +23,7 @@ Web开发技术：https://developer.mozilla.org/zh-CN/docs/Web
 
 ---
 1.券商综合行研报告：  
-l  萝卜投研  
+l  萝卜投研：https://robo.datayes.com/
 l  彭博、WIND、Capital IQ  
 l  慧博投研资讯http://www.hibor.com.cn/  
 l  渐飞 http://bg.panlv.net   
