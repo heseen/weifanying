@@ -19,18 +19,19 @@ https://zh.b-ok.com/
 Web开发技术
 https://developer.mozilla.org/zh-CN/docs/Web  
 
-亿牛网-市盈率|市净率|PE|PB查询
+亿牛网
 https://eniu.com/  
+l  市盈率|市净率|PE|PB查询
 
 ---
-1.券商综合行研报告：  
-l  萝卜投研：https://robo.datayes.com/
+券商综合行研报告：  
+l  萝卜投研：https://robo.datayes.com/  
+l  慧博投研资讯http://www.hibor.com.cn/   
+l  巨潮资讯、巨灵金融服务平台、同花顺、东方财富、新浪财经  
 l  彭博、WIND、Capital IQ  
-l  慧博投研资讯http://www.hibor.com.cn/  
-l  渐飞 http://bg.panlv.net   
-l  巨潮资讯、巨灵金融服务平台、同花顺、东方财富、新浪财经等  
 
-2.国内研究报告出品方：  
+---
+国内研究报告出品方：  
 l  199it ：http://www.199it.com/   
 l  艾瑞数据 ：http://data.iresearch.com.cn/   
 l  极光研究院：https://www.jiguang.cn/   
