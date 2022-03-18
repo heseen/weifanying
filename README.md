@@ -1,4 +1,5 @@
-## weifanying  微反应 我知道
+## weifanying  
+微反应 我知道
 
 ---
 找研报-行业研究报告
@@ -27,22 +28,23 @@ l  市盈率|市净率|PE|PB查询
 ---
 券商综合行研报告：  
 >  萝卜投研：https://robo.datayes.com/  
->  慧博投研资讯http://www.hibor.com.cn/   
+>  慧博投研资讯：http://www.hibor.com.cn/   
 >  巨潮资讯、巨灵金融服务平台、同花顺、东方财富、新浪财经  
 >  彭博、WIND、Capital IQ  
 
 ---
 国内研究报告出品方：  
--  199it ：http://www.199it.com/   
--  艾瑞数据 ：http://data.iresearch.com.cn/   
--  极光研究院：https://www.jiguang.cn/   
--  Questmobile研究院 ：http://www.questmobile.com.cn/  
--  易观大数据 ：https://www.analysys.cn/  
--  Questmobile ：http://www.questmobile.com.cn/  
--  艾媒网 ：http://www.iimedia.cn/   
--  360营销学院 ：http://yingxiao.360.cn/   
--  互联网教育研院 ：http://www.investedu.cn/  
+>  199it ：http://www.199it.com/   
+>  艾瑞数据 ：http://data.iresearch.com.cn/   
+>  极光研究院：https://www.jiguang.cn/   
+>  Questmobile研究院 ：http://www.questmobile.com.cn/  
+>  易观大数据 ：https://www.analysys.cn/  
+>  Questmobile ：http://www.questmobile.com.cn/  
+>  艾媒网 ：http://www.iimedia.cn/   
+>  360营销学院 ：http://yingxiao.360.cn/   
+>  互联网教育研院 ：http://www.investedu.cn/  
 
+---
 国外研究报告出品方：  
 l  Bain & Company：  
 l  http://www.bain.com/publications/index.aspx  
