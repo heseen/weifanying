@@ -1,4 +1,4 @@
-# weifanying  微反应，我知道
+## weifanying  微反应 我知道
 
 ---
 找研报-行业研究报告
@@ -43,7 +43,7 @@ l  市盈率|市净率|PE|PB查询
 -  360营销学院 ：http://yingxiao.360.cn/   
 -  互联网教育研院 ：http://www.investedu.cn/  
 
-3.国外研究报告出品方  
+国外研究报告出品方：  
 l  Bain & Company：  
 l  http://www.bain.com/publications/index.aspx  
 l  Oliver Wyman：https://www.oliverwyman.com/our- expertise/insights.html  
