@@ -1,6 +1,5 @@
-# weifanying
-### 微反应，我知道
-
+# weifanying  微反应，我知道
+---
 找研报-行业研究报告
 https://www.fxbaogao.com/  
 
@@ -8,7 +7,7 @@ https://www.fxbaogao.com/
 https://yanbaoke.com/  
 
 MBA智库百科
-https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5  
+https://wiki.mbalib.com/
 
 国家企业信用信息公示系统
 http://www.gsxt.gov.cn/index.html  
@@ -17,9 +16,11 @@ Z-Library.全球最大的数字图书馆
 https://zh.b-ok.com/
 
 ---
-Web开发技术：https://developer.mozilla.org/zh-CN/docs/Web  
+Web开发技术
+https://developer.mozilla.org/zh-CN/docs/Web  
 
-亿牛网 https://eniu.com/  
+亿牛网-市盈率|市净率|PE|PB查询
+https://eniu.com/  
 
 ---
 1.券商综合行研报告：  
@@ -265,78 +266,60 @@ https://www.newrank.cn/
 
 
 1.沃客导航-让工作更高效！
-
 http://www.waysto.work/
 
 2.今日热榜官网
-
 https://tophub.today/
 
 3.蓝奏云搜索
-
 https://www.chongbuluo.com/lanzou.html
 
 4.轻松玩转PDF工具
-
 https://smallpdf.com/cn
 
-5.在线格式转换 All2All | 免费在线格式转换工具 免费在线转换工具 免费视频在线转换 免费音频在线转换 免费在线转换
-
+5.在线格式转换 All2All-
 http://www.alltoall.net/
 
 6.网址导航 | 菜鸟工具
-
-   https://c.runoob.com/sites
+https://c.runoob.com/sites
 
 7.小森林导航-柳暗花明又一村 - 最新官网
-
 http://www.xsldh6.com/
 
 8.免费资源网站 网盘、BT磁力搜索大全 - 虾库网
-
 https://www.xiacoo.com/type/ziyuansousuo
 
 9.网盘搜索 | 精选网址导航
-
 http://dian.dadiyouhui.cn/daohang/wang-pan-sou-suo.html
 
-10.Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片
-
+10.Bigjpg - AI人工智能图片无损放大
 https://bigjpg.com/
 
-11.设计师网址导航WebStack.cc -
-
+11.WebStack.cc-设计师网址导航
 http://webstack.cc/cn/
 
 12.HiPPTER | PPT资源导航 | PPT模板图表等设计素材免费下载
-
 http://www.hippter.com/
 
 13.超能搜 - 百度网盘搜索神器
-
 https://www.chaonengsou.com/m/
 
 14.用户脚本
-
 https://greasyfork.org/zh-CN/scripts
 
-15.自媒体导航 | 专业的自媒体人资源平台。
-
+15.自媒体导航 | 专业的自媒体人资源平台
 http://zmt.yundaohang.com/
 
 16.现实君工具箱 - 回归现实 - 分享有趣
-
 http://tool.uixsj.cn/
 
 17.爱资料在线工具-好用的在线工具箱
-
 https://www.toolnb.com/
 
 18.精准云工具_在线工具大全
-
 https://jingzhunyun.com
 
-
+---
 极客导航
 https://www.jikedaohang.com/
 
