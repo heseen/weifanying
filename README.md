@@ -21,9 +21,8 @@ https://zh.b-ok.com/
 Web开发技术
 https://developer.mozilla.org/zh-CN/docs/Web  
 
-亿牛网
+亿牛网 - 市盈率|市净率|PE|PB查询
 https://eniu.com/  
-l  市盈率|市净率|PE|PB查询
 
 ---
 券商综合行研报告：  
@@ -34,15 +33,15 @@ l  市盈率|市净率|PE|PB查询
 
 ---
 国内研究报告出品方：  
->  199it ：http://www.199it.com/   
->  艾瑞数据 ：http://data.iresearch.com.cn/   
->  极光研究院：https://www.jiguang.cn/   
->  Questmobile研究院 ：http://www.questmobile.com.cn/  
->  易观大数据 ：https://www.analysys.cn/  
->  Questmobile ：http://www.questmobile.com.cn/  
->  艾媒网 ：http://www.iimedia.cn/   
->  360营销学院 ：http://yingxiao.360.cn/   
->  互联网教育研院 ：http://www.investedu.cn/  
+> 199it ：http://www.199it.com/   
+> 艾瑞数据 ：http://data.iresearch.com.cn/   
+> 极光研究院：https://www.jiguang.cn/   
+> Questmobile研究院 ：http://www.questmobile.com.cn/  
+> 易观大数据 ：https://www.analysys.cn/  
+> Questmobile ：http://www.questmobile.com.cn/  
+> 艾媒网 ：http://www.iimedia.cn/   
+> 360营销学院 ：http://yingxiao.360.cn/   
+> 互联网教育研院 ：http://www.investedu.cn/  
 
 ---
 国外研究报告出品方：  
