@@ -1,7 +1,5 @@
 # weifanying  微反应，我知道
 
-![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
-
 ---
 找研报-行业研究报告
 https://www.fxbaogao.com/  
@@ -24,7 +22,7 @@ https://developer.mozilla.org/zh-CN/docs/Web
 
 亿牛网
 https://eniu.com/  
-l  市盈率|市净率|PE|PB查询
+l  市盈率|市净率|PE|PB查询
 
 ---
 券商综合行研报告：  
@@ -35,15 +33,15 @@ l  市盈率|市净率|PE|PB查询
 
 ---
 国内研究报告出品方：  
-l  199it ：http://www.199it.com/   
-l  艾瑞数据 ：http://data.iresearch.com.cn/   
-l  极光研究院：https://www.jiguang.cn/   
-l  Questmobile研究院 ：http://www.questmobile.com.cn/  
-l  易观大数据 ：https://www.analysys.cn/  
-l  Questmobile ：http://www.questmobile.com.cn/  
-l  艾媒网 ：http://www.iimedia.cn/   
-l  360营销学院 ：http://yingxiao.360.cn/   
-l  互联网教育研院 ：http://www.investedu.cn/  
+-  199it ：http://www.199it.com/   
+-  艾瑞数据 ：http://data.iresearch.com.cn/   
+-  极光研究院：https://www.jiguang.cn/   
+-  Questmobile研究院 ：http://www.questmobile.com.cn/  
+-  易观大数据 ：https://www.analysys.cn/  
+-  Questmobile ：http://www.questmobile.com.cn/  
+-  艾媒网 ：http://www.iimedia.cn/   
+-  360营销学院 ：http://yingxiao.360.cn/   
+-  互联网教育研院 ：http://www.investedu.cn/  
 
 3.国外研究报告出品方  
 l  Bain & Company：  
