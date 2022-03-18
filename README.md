@@ -1,4 +1,5 @@
 # weifanying  微反应，我知道
+[我是图片]:https://images2015.cnblogs.com/blog/600165/201701/600165-20170121185106031-1426410254.png
 ---
 找研报-行业研究报告
 https://www.fxbaogao.com/  
@@ -21,14 +22,14 @@ https://developer.mozilla.org/zh-CN/docs/Web
 
 亿牛网
 https://eniu.com/  
-l  市盈率|市净率|PE|PB查询
+>  市盈率|市净率|PE|PB查询
 
 ---
 券商综合行研报告：  
-l  萝卜投研：https://robo.datayes.com/  
-l  慧博投研资讯http://www.hibor.com.cn/   
-l  巨潮资讯、巨灵金融服务平台、同花顺、东方财富、新浪财经  
-l  彭博、WIND、Capital IQ  
+*  萝卜投研：https://robo.datayes.com/  
+*  慧博投研资讯http://www.hibor.com.cn/   
+*  巨潮资讯、巨灵金融服务平台、同花顺、东方财富、新浪财经  
+*  彭博、WIND、Capital IQ  
 
 ---
 国内研究报告出品方：  
