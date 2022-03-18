@@ -26,10 +26,10 @@ https://eniu.com/
 
 ---
 券商综合行研报告：  
->  萝卜投研：https://robo.datayes.com/  
->  慧博投研资讯：http://www.hibor.com.cn/   
->  巨潮资讯、巨灵金融服务平台、同花顺、东方财富、新浪财经  
->  彭博、WIND、Capital IQ  
+> 萝卜投研：https://robo.datayes.com/  
+> 慧博投研资讯：http://www.hibor.com.cn/   
+> 巨潮资讯、巨灵金融服务平台、同花顺、东方财富、新浪财经  
+> 彭博、WIND、Capital IQ  
 
 ---
 国内研究报告出品方：  
@@ -51,8 +51,9 @@ l  Oliver Wyman：https://www.oliverwyman.com/our- expertise/insights.html
 l  ZS Acssociates：https://www.zs.com/publications?f=  
 l  Whitepapers Nielsen：http://www.nielsen.com/us/en/insights/reports.html  
 l  Euromonitor International、JLL、IRI、J.D.Power、PitchBook、PwC、 Deloitte、Kantar、Coriolis Research、L.E.K. Consulting  
- 
-4.券商综合行研报告  
+
+---
+券商综合行研报告  
 l  互联网相关报告  
 l  腾讯：腾讯大讲堂、腾讯大数据、腾讯MXD移动互联网设计中心、腾讯交互设计报告  
 l  百度：百度开放服务平台、百度数据研究中心  
@@ -62,7 +63,8 @@ l  优酷：优酷指数行业报告 
 l  PPTV指数：PPTV指数行业报告  
 l  360：360研究报告  
 
-5.各类细分行业报告  
+---
+各类细分行业报告  
 l  硬件出货量全球报告：IDC - Search Results-IDC  
 l  互联网行业报告：Precisely Everywhere-comscore  
 l  BI Intelligence：business insider的报告   
@@ -83,7 +85,8 @@ l  工具艺恩咨询：电影电视行业免费报告列表页 旅游行业报
 l  艺恩咨询：电影电视行业免费报告列表页  
 l  旅游行业报告：旅游数据报告-旅游圈  
 
-6.各大咨询公司报告下载页面  
+---
+各大咨询公司报告下载页面  
 l  http://www.deloitte.com/view/zh_CN/cn/services/  
 l  http://www.deloitte.com/view/en_GX/global/insights/index.htm  
 l  http://www.kpmg.com/CN/en/IssuesAndInsights/Pages/default.aspx  
@@ -98,16 +101,15 @@ l  http://www.pwccn.com/home/eng/libraryindex.html
 l  http://www2.hewittassociates.com/Intl/AP/zh-CHT/Default.aspx  
 l  http://www.booz.com/global/home/ ... ding-research-on-ma  
 
-7.小程序  
-l  报告查一查  
-l  行研领军者  
-l  研报来了  
+---
+小程序：  
+> 报告查一查  
+> 行研领军者  
+> 研报来了  
 
 
 
 ---
-
-
 https://gitee.com/
 
 网址导航：
