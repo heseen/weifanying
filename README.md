@@ -14,6 +14,12 @@ https://wiki.mbalib.com/
 国家企业信用信息公示系统
 http://www.gsxt.gov.cn/index.html  
 
+国家裁判文书网
+https://wenshu.court.gov.cn/  
+
+国家商标局-商标查询
+https://wcjs.sbj.cnipa.gov.cn/  
+
 Z-Library.全球最大的数字图书馆
 https://zh.b-ok.com/
 
