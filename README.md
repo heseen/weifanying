@@ -34,9 +34,10 @@ https://eniu.com/
 券商综合行研报告：  
 > 巨潮资讯：http://www.cninfo.com.cn/  
 > 同花顺-i问财：http://www.iwencai.com/  
-> 萝卜投研：https://robo.datayes.com/   
-> 
+> 萝卜投研：https://robo.datayes.com/  
+> 披露易：https://www.hkexnews.hk/  
 > Capital IQ-核心金融数据库：http://www.capitaliq.com/
+> 
 > 
 
 
@@ -51,26 +52,28 @@ https://eniu.com/
 > 艾媒网 ：http://www.iimedia.cn/   
 > 360营销学院 ：http://yingxiao.360.cn/   
 > 互联网教育研院 ：http://www.investedu.cn/  
+>
 
 ---
 国外研究报告出品方：  
-l  Bain & Company：  
-l  http://www.bain.com/publications/index.aspx  
-l  Oliver Wyman：https://www.oliverwyman.com/our- expertise/insights.html  
-l  ZS Acssociates：https://www.zs.com/publications?f=  
-l  Whitepapers Nielsen：http://www.nielsen.com/us/en/insights/reports.html  
-l  Euromonitor International、JLL、IRI、J.D.Power、PitchBook、PwC、 Deloitte、Kantar、Coriolis Research、L.E.K. Consulting  
+>  Bain & Company：  
+>  http://www.bain.com/publications/index.aspx  
+>  Oliver Wyman：https://www.oliverwyman.com/our- expertise/insights.html  
+>  ZS Acssociates：https://www.zs.com/publications?f=  
+>  Whitepapers Nielsen：http://www.nielsen.com/us/en/insights/reports.html  
+>  Euromonitor International、JLL、IRI、J.D.Power、PitchBook、PwC、 Deloitte、Kantar、Coriolis Research、L.E.K. Consulting  
+>
 
 ---
 券商综合行研报告  
 l  互联网相关报告  
-l  腾讯：腾讯大讲堂、腾讯大数据、腾讯MXD移动互联网设计中心、腾讯交互设计报告  
-l  百度：百度开放服务平台、百度数据研究中心  
-l  阿里：阿里研究院-阿里行业研究报告、淘宝UED用户研究报告   
-l  网易：网易UED用户研究报告   
-l  优酷：优酷指数行业报告   
-l  PPTV指数：PPTV指数行业报告  
-l  360：360研究报告  
+>  腾讯：腾讯大讲堂、腾讯大数据、腾讯MXD移动互联网设计中心、腾讯交互设计报告  
+>  百度：百度开放服务平台、百度数据研究中心  
+>  阿里：阿里研究院-阿里行业研究报告、淘宝UED用户研究报告   
+>  网易：网易UED用户研究报告   
+>  优酷：优酷指数行业报告   
+>  PPTV指数：PPTV指数行业报告  
+>  360：360研究报告  
 
 ---
 各类细分行业报告  
@@ -121,27 +124,13 @@ l  http://www.booz.com/global/home/ ... ding-research-on-ma
 ---
 https://gitee.com/
 
-网址导航：
-http://123.xcatliu.com/
-
-新榜-内容产业服务平台：
-https://www.newrank.cn/
-
-聚微信：
-http://www.juweixin.com/
-
-科箭一体化云平台：
-https://www.qt-asia.com/
-
-后盾云：
-https://houdunren.gitee.io/note/
-
-产品教练：
-https://www.yuque.com/pmmaster/members
-
-美团外卖特征平台的建设与实践：
-https://tech.meituan.com/2021/03/04/featureplatform-in-mtwaimai.html
-
+网址导航：http://123.xcatliu.com/  
+新榜-内容产业服务平台：https://www.newrank.cn/  
+聚微信：http://www.juweixin.com/  
+科箭一体化云平台：https://www.qt-asia.com/  
+后盾云：https://houdunren.gitee.io/note/  
+产品教练：https://www.yuque.com/pmmaster/members  
+美团外卖特征平台的建设与实践：https://tech.meituan.com/2021/03/04/featureplatform-in-mtwaimai.html  
 
 坚果资本：
 https://www.capitalnuts.com/viewpoint/  
@@ -245,7 +234,6 @@ https://www.58pic.com/
 
 新媒体管家插件：热点中心https://xmt.cn/index
 
-
 新浪微博：蓝V/黄V/自媒体博主 https://weibo.com/
 
 微信公众平台：订阅号/服务号/小程序https://mp.weixin.qq.com/
@@ -265,6 +253,7 @@ TOPYS：全球顶尖创意分享平台 https://www.topys.cn
 办公便捷工具：草料二维码、美图秀秀网页版、百度网盘
 
 视觉素材平台：创客贴设计、站酷网、花瓣网
+
 
 六、营销/数据工具
 
