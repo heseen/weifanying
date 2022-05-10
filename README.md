@@ -389,34 +389,42 @@ https://gitmind.cn/
 ---
 会计
 
-深圳市会计管理综合平台|深圳市财政局
+深圳市会计管理综合平台|深圳市财政局：
 https://public.szfb.sz.gov.cn/zhcz-accountant/#/
 
-品职教育
+品职教育：
 https://www.pzacademy.com/
 
-财富-FORTUNE
+财富-FORTUNE：
 https://www.fortunechina.com/fortune500/c/2021-08/02/content_394571.htm
 
-会计学堂
+会计学堂：
 https://www.acc5.com/
 
-企业会计准则-财政部
+企业会计准则-财政部：
 http://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/
 
-财政会计行业管理系统
+财政会计行业管理系统：
 http://acc.mof.gov.cn/
 
-高途教育
+高途教育：
 https://www.gaotu.cn/category
 
-
+---
+> 深圳注会：
+> https://www.szicpa.org/
+> 
+> 会计百科：
+> http://baike.esnai.com/
+> 
+> 律图：
+> http://www.64365.com/
 
 ---
 > https://pyscript.net/  
-> https://www.w3.org/
-> https://www.runoob.com/
-> https://www.w3school.com.cn/
+> https://www.w3.org/  
+> https://www.runoob.com/  
+> https://www.w3school.com.cn/  
 >
 >
 
