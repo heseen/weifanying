@@ -4,11 +4,11 @@
 ---
 > 找研报-行业研究报告：https://www.fxbaogao.com/  
 > 研报客-行业及财务报告：https://yanbaoke.com/  
-> MBA智库百科：https://wiki.mbalib.com/
+> MBA智库百科：https://wiki.mbalib.com/  
 > 国家企业信用信息公示系统：http://www.gsxt.gov.cn/index.html  
 > 国家裁判文书网：https://wenshu.court.gov.cn/  
 > 国家商标局-商标查询：https://wcjs.sbj.cnipa.gov.cn/  
-> Z-Library.全球最大的数字图书馆：https://zh.b-ok.com/
+> Z-Library.全球最大的数字图书馆：https://zh.b-ok.com/  
 
 ---
 > Web开发技术：https://developer.mozilla.org/zh-CN/docs/Web  
