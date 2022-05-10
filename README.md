@@ -55,16 +55,6 @@ https://eniu.com/
 >
 
 ---
-国外研究报告出品方：  
->  Bain & Company：  
->  http://www.bain.com/publications/index.aspx  
->  Oliver Wyman：https://www.oliverwyman.com/our- expertise/insights.html  
->  ZS Acssociates：https://www.zs.com/publications?f=  
->  Whitepapers Nielsen：http://www.nielsen.com/us/en/insights/reports.html  
->  Euromonitor International、JLL、IRI、J.D.Power、PitchBook、PwC、 Deloitte、Kantar、Coriolis Research、L.E.K. Consulting  
->
-
----
 券商综合行研报告  
 l  互联网相关报告  
 >  腾讯：腾讯大讲堂、腾讯大数据、腾讯MXD移动互联网设计中心、腾讯交互设计报告  
@@ -402,7 +392,6 @@ https://gitmind.cn/
 深圳市会计管理综合平台|深圳市财政局
 https://public.szfb.sz.gov.cn/zhcz-accountant/#/
 
-
 品职教育
 https://www.pzacademy.com/
 
@@ -420,6 +409,21 @@ http://acc.mof.gov.cn/
 
 高途教育
 https://www.gaotu.cn/category
+
+
+
+---
+> https://pyscript.net/  
+> https://www.w3.org/
+> https://www.runoob.com/
+> https://www.w3school.com.cn/
+>
+>
+
+
+
+
+
 
 
 
