@@ -56,42 +56,42 @@
 >  360：360研究报告  
 
 ---
-各类细分行业报告  
-l  硬件出货量全球报告：IDC - Search Results-IDC  
-l  互联网行业报告：Precisely Everywhere-comscore  
-l  BI Intelligence：business insider的报告   
-l  Global移动行业报告：Ericsson - A world of communication  
-l  Global游戏行业报告：GamesIndustry.biz  
-l  Global广告行业报告：http://adfonic.com/   
-l  Global智能机报告：Canalys | Insight. Innovation. Impact.  
-l  DCCI：http://www.dcci.com.cn/report/index.html  
-l  通信无线报告：Mobile, Online & Digital Market Research, Data & Consultancy  
-l  终端比较专业的报告：Home | GfK Global    
-l  中国互联网络信息中心：CNNIC数据    
-l  北京赛诺市场研究：赛诺数据，智能机出货量的专业统计     
-l  中国信通院：研究成果-权威发布-权威数据国家智能机出货量的官方统计     
-l  TalkingData：有时候会出一些报告   
-l  手游方向：https://www.dataeye.com/report.html-dataeye  
-l  ASO100：专业App Store数据平台丨ASO优化专家平台丨iOS榜单排行榜查询  
-l  工具艺恩咨询：电影电视行业免费报告列表页 旅游行业报告：旅游数据报告-旅游圈  
-l  艺恩咨询：电影电视行业免费报告列表页  
-l  旅游行业报告：旅游数据报告-旅游圈  
+各类细分行业报告：  
+
+硬件出货量全球报告：IDC - Search Results-IDC  
+互联网行业报告：Precisely Everywhere-comscore  
+BI Intelligence：business insider的报告   
+Global移动行业报告：Ericsson - A world of communication  
+Global游戏行业报告：GamesIndustry.biz  
+Global广告行业报告：http://adfonic.com/   
+Global智能机报告：Canalys | Insight. Innovation. Impact.  
+DCCI：http://www.dcci.com.cn/report/index.html  
+通信无线报告：Mobile, Online & Digital Market Research, Data & Consultancy  
+终端比较专业的报告：Home | GfK Global      
+中国互联网络信息中心：CNNIC数据    
+北京赛诺市场研究：赛诺数据，智能机出货量的专业统计     
+中国信通院：研究成果-权威发布-权威数据国家智能机出货量的官方统计     
+TalkingData：有时候会出一些报告   
+手游方向：https://www.dataeye.com/report.html-dataeye  
+ASO100：专业App Store数据平台丨ASO优化专家平台丨iOS榜单排行榜查询  
+工具艺恩咨询：电影电视行业免费报告列表页 旅游行业报告：旅游数据报告-旅游圈  
+艺恩咨询：电影电视行业免费报告列表页  
+旅游行业报告：旅游数据报告-旅游圈  
 
 ---
-各大咨询公司报告下载页面  
-l  http://www.deloitte.com/view/zh_CN/cn/services/  
-l  http://www.deloitte.com/view/en_GX/global/insights/index.htm  
-l  http://www.kpmg.com/CN/en/IssuesAndInsights/Pages/default.aspx  
-l  http://www.mckinsey.com/locations/chinasimplified/  
-l  http://www-31.ibm.com/cn/services/bcs/   
-l  http://www.bcg.com.cn/cn/newsand ... s_publications.html   
-l  http://www.ebusinessreview.cn/  
-l  http://www.ey.com/CN/ZH/home/library  
-l  http://www.bain.cn/news.php   
-l  https://china.mckinseyquarterly.com/home.aspx  
-l  http://www.pwccn.com/home/eng/libraryindex.html  
-l  http://www2.hewittassociates.com/Intl/AP/zh-CHT/Default.aspx  
-l  http://www.booz.com/global/home/ ... ding-research-on-ma  
+各大咨询公司报告下载页面：  
+
+http://www.deloitte.com/view/zh_CN/cn/services/  
+http://www.deloitte.com/view/en_GX/global/insights/index.htm  
+http://www.kpmg.com/CN/en/IssuesAndInsights/Pages/default.aspx  
+http://www.mckinsey.com/locations/chinasimplified/  
+http://www-31.ibm.com/cn/services/bcs/   
+http://www.ebusinessreview.cn/  
+http://www.ey.com/CN/ZH/home/library  
+http://www.bain.cn/news.php   
+https://china.mckinseyquarterly.com/home.aspx  
+http://www.pwccn.com/home/eng/libraryindex.html  
+http://www2.hewittassociates.com/Intl/AP/zh-CHT/Default.aspx  
 
 ---
 小程序：  
