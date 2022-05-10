@@ -17,17 +17,20 @@
 > Z-Library.全球最大的数字图书馆：https://zh.b-ok.com/  
 
 ---
-> Web开发技术：https://developer.mozilla.org/zh-CN/docs/Web  
+券商综合行研报告：  
+
+> 巨潮资讯：http://www.cninfo.com.cn/  
+> 
+> 同花顺-i问财：http://www.iwencai.com/  
+> 
+> 萝卜投研：https://robo.datayes.com/  
+> 
+> 披露易：https://www.hkexnews.hk/  
+> 
+> Capital IQ-核心金融数据库：http://www.capitaliq.com/  
+> 
 > 亿牛网-市盈率|市净率|PE|PB查询：https://eniu.com/  
 
----
-券商综合行研报告：  
-> 巨潮资讯：http://www.cninfo.com.cn/  
-> 同花顺-i问财：http://www.iwencai.com/  
-> 萝卜投研：https://robo.datayes.com/  
-> 披露易：https://www.hkexnews.hk/  
-> Capital IQ-核心金融数据库：http://www.capitaliq.com/
-> 
 
 ---
 国内研究报告出品方：  
@@ -418,8 +421,7 @@ https://gitmind.cn/
 > 
 > https://www.w3school.com.cn/  
 >
->
-
+> https://developer.mozilla.org/zh-CN/docs/Web  
 
 
 
