@@ -380,6 +380,9 @@ https://gitmind.cn/
 ---
 会计
 
+> 注册会计师协会：
+> https://www.cicpa.org.cn/
+>
 > 企业会计准则：
 > https://www.casc.org.cn/qykjzz/
 > 
