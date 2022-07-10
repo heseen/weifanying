@@ -389,9 +389,9 @@ https://gitmind.cn/
 > 企业会计准则-财政部：
 > http://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/
 > 
-> 注册会计师行业统一监管平台
-> acc.mof.gov.cn
-> 
+> 注册会计师行业统一监管平台：
+> http://acc.mof.gov.cn/
+>  
 > 会计百科：
 > http://baike.esnai.com/
 >
