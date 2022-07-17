@@ -15,8 +15,9 @@
 > 国家商标局-商标查询：https://wcjs.sbj.cnipa.gov.cn/  
 > 
 > Z-Library.全球最大的数字图书馆：https://zh.b-ok.com/  
->
-
+> 
+> 审计工具资源：https://gitee.com/nigo81/audit-guid  
+> 
 ---
 券商综合行研报告：  
 
