@@ -418,9 +418,14 @@ https://gitmind.cn/
 > https://www.qingtengdata.com/
 > 
 > 律图：
-> http://www.64365.com/
+> http://www.64365.com/ 
 > 
-
+> 广东省会计信息服务平台：
+> https://kj.czt.gd.gov.cn/
+> 
+> 财政部-会计财务评价中心：
+> http://kzp.mof.gov.cn/
+>
 
 ---
 > https://pyscript.net/  
