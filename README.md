@@ -414,7 +414,7 @@ https://gitmind.cn/
 > 会计学堂：
 > https://www.acc5.com/
 > 
-> 青藤数据
+> 青藤数据：
 > https://www.qingtengdata.com/
 > 
 > 律图：
@@ -423,7 +423,7 @@ https://gitmind.cn/
 > 广东省会计信息服务平台：
 > https://kj.czt.gd.gov.cn/
 > 
-> 深圳市财政局
+> 深圳市财政局：
 > http://szfb.sz.gov.cn/
 > 
 > 财政部-会计财务评价中心：
