@@ -423,6 +423,9 @@ https://gitmind.cn/
 > 广东省会计信息服务平台：
 > https://kj.czt.gd.gov.cn/
 > 
+> 深圳市财政局
+> http://szfb.sz.gov.cn/
+> 
 > 财政部-会计财务评价中心：
 > http://kzp.mof.gov.cn/
 >
