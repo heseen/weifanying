@@ -8,6 +8,8 @@
 > 
 > MBA智库百科：https://wiki.mbalib.com/  
 > 
+> 尽调导航：http://www.oslaw.net/
+>
 > 国家企业信用信息公示系统：http://www.gsxt.gov.cn/index.html  
 > 
 > 国家裁判文书网：https://wenshu.court.gov.cn/  
