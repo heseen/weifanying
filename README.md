@@ -21,6 +21,12 @@
 > 审计工具资源：https://gitee.com/nigo81/audit-guid  
 > 
 ---
+
+证券数据：
+> Akshare：https://akshare.xyz/  
+> BaoStock：http://baostock.com/  
+> 
+---
 券商综合行研报告：  
 
 > 巨潮资讯：http://www.cninfo.com.cn/  
